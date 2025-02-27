@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 18px 163.12px;
+}
+
+ul {
+  display: flex;
+  width: 245px;
+  height: 24px;
+  list-style: none;
+  gap: 40px;
+  color: #505f98;
+}
+
+ul li {
+  cursor: pointer;
+}
+
+.logo {
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 38px;
+  color: #37447e;
+  position: absolute;
+  z-index: 99999;
+  right: 50%;
+}
