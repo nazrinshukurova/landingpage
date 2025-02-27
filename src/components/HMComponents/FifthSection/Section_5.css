@@ -1,0 +1,12 @@
+.section_5_main {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 50px;
+}
+
+.image5 {
+  width: 445px;
+  height: 312px;
+}

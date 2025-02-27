@@ -1,0 +1,11 @@
+.image-3 {
+  width: 480px;
+  height: 320px;
+}
+
+.section_3_main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 50px;
+}

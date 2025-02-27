@@ -1,0 +1,18 @@
+.card-box{
+    width:255px;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  color: #091133;
+  width: fit-content;
+}
+
+.card-text {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #5d6970;
+}

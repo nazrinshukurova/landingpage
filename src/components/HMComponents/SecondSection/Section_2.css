@@ -1,0 +1,30 @@
+.second_section_main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.second_section_left {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  margin: 100px 0px 0px 50px;
+}
+
+.elements {
+  display: flex;
+  margin-top: 30px;
+  align-items: center;
+}
+
+.image2 {
+  width: 540px;
+  height: 524.31px;
+}
+
+.second_image_box {
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import "./MainPage.css";
-import Button from "../../shared/Button/Button";
-import main_image from "../../assets/image.png";
+import Button from "../../../shared/Button/Button";
+import main_image from "../../../assets/images/image.png";
 
 const MainPage = () => {
   return (

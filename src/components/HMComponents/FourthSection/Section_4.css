@@ -1,0 +1,12 @@
+.section_4_main {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 50px;
+}
+
+.image4 {
+  width: 540px;
+  height: 387px;
+}
