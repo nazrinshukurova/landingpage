@@ -11,6 +11,10 @@ ul {
   height: 24px;
   list-style: none;
   gap: 40px;
+}
+
+.link {
+  text-decoration: none;
   color: #505f98;
 }
 
